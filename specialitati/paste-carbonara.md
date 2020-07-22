@@ -8,4 +8,4 @@ Ingrediente:
 * sunca presata
 Reteta italina
 
-![Image](imgs\carbonara)
+![Image](..\imgs\carbonara)
