@@ -15,3 +15,5 @@ Bun venit la cel mai alpha restaurant!
 >Sunteți în căutarea unui job? Puteți arunca un ochi pe [această pagină](posturi-libere.md).
 
 [contact](contact.md)
+
+[locatie](location.md)
