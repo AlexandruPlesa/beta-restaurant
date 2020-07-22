@@ -3,3 +3,5 @@
 1. Pizza
 2. Salată cu pui
 3. Paste carbonara
+
+[*Pagina principală*](main.md)
