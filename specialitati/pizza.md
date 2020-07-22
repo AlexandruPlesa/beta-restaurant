@@ -1,4 +1,5 @@
 # Pizza
+![Imaginea nu a fost gasita](../imgs/pizza.jpg)
 
 **Timp de preparare: 30min**
 
