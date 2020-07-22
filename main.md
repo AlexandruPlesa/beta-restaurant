@@ -2,7 +2,7 @@
 
 Bun venit la cel mai alpha restaurant!
 
-## Despre noi
+## [Despre noi](about.md)
 >Cel mai bun restaurant pe care l-a vazut git-ul.
 
 ## Meniu
