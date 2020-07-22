@@ -15,3 +15,5 @@ Ingrediente:
 * 1 lingurita boia de ardei iute sau dulce
 * 1/2 lingurita oregano sau busuioc uscat (optional)
 * ulei pentru prajit
+
+[Inapoi](kids-menu.md)
