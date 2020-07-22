@@ -2,7 +2,7 @@
 
 Bun venit la cel mai alpha restaurant!
 
-## Despre noi
+## [Despre noi](about.md)
 >Cel mai bun restaurant pe care l-a vazut git-ul.
 
 ## Meniu
@@ -10,3 +10,5 @@ Bun venit la cel mai alpha restaurant!
 
 ## Meniu copii
 >Meniu pentru cei fara drept de vot. Pentru mai multe informatii accesati link-ul.
+
+[contact](contact.md)
