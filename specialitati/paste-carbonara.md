@@ -6,6 +6,7 @@ Ingrediente:
 * paste cu ou
 * smantana
 * sunca presata
+
 Reteta italina
 
-![Image](..\imgs\carbonara)
+![paste-carbonara](..\imgs\carbonara.jpg)

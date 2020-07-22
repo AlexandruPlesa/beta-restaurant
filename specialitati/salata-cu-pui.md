@@ -1,5 +1,7 @@
 # Salată cu pui
 
+![Image](/imgs/salata-buna.jpg)
+
 **Timp de preparare: 20 min**
 
 Ingrediente: 
