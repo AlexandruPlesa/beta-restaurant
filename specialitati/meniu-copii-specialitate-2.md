@@ -6,3 +6,5 @@ Ingrediente:
 * morcovi
 * cartofi
 * smantana
+
+[Inapoi la pagina cu meniurile pentru copii](kids-menu.md)
