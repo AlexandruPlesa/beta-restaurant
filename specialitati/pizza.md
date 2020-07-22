@@ -9,4 +9,5 @@ Ingrediente:
  - mozzarella
  - sunca
  - porumb
- - masline
+ - masline  
+ [Inapoi](/specialitati.md)
