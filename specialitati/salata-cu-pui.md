@@ -1,6 +1,6 @@
 # Salată cu pui
 
-**Timp de preparare**: 20 min
+**Timp de preparare: 20 min**
 
 Ingrediente: 
 - roșii
