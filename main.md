@@ -11,4 +11,7 @@ Bun venit la cel mai alpha restaurant!
 ## Meniu copii
 >Meniu pentru cei fara drept de vot. Pentru mai multe informatii accesati link-ul.
 
+## Posturi libere
+>Sunteți în căutarea unui job? Puteți arunca un ochi pe [această pagină](posturi-libere.md).
+
 [contact](contact.md)
