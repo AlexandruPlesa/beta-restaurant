@@ -9,7 +9,7 @@ Bun venit la cel mai alpha restaurant!
 >Meniu pentru cei care au drept de vot. Pentru mai multe informatii accesati [specialitățile](specialitati.md).
 
 ## Meniu copii
->Meniu pentru cei fara drept de vot. Pentru mai multe informatii accesati link-ul.
+>Meniu pentru cei fara drept de vot. Pentru mai multe informatii accesati [meniuri pentru copii](specialitati/kids-menu.md).
 
 ## Posturi libere
 >Sunteți în căutarea unui job? Puteți arunca un ochi pe [această pagină](posturi-libere.md).
