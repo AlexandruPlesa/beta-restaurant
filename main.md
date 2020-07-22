@@ -12,3 +12,5 @@ Bun venit la cel mai alpha restaurant!
 >Meniu pentru cei fara drept de vot. Pentru mai multe informatii accesati link-ul.
 
 [contact](contact.md)
+
+[locatie](location.md)
