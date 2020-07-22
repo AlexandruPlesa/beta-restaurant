@@ -7,3 +7,5 @@ Ingrediente:
 * smantana
 * sunca presata
 Reteta italina
+
+![Image](..\imgs\carbonara)
